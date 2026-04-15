@@ -1,5 +1,5 @@
 # ⚡ Sobre mim:
-Sou técnico de Informática para Internet, egresso do IFRN - Campus Caicó, e estou cursando o segundo período de Ciência da Computação na UFCG. No momento, meus interesses envolvendo a área estão em desenvolvimento_ web full-stack_, programação orientada à objetos e, desde que fiz um curso específico para isso, o _Embarcatech_, também tenho extremo interesse na área de _IoT_ ou Internet das Coisas!
+Sou técnico de Informática para Internet, egresso do IFRN - Campus Caicó, e estou cursando o segundo período de Ciência da Computação na UFCG. No momento, meus interesses envolvendo a área estão em desenvolvimento _web full-stack_, programação orientada à objetos e, desde que fiz um curso específico para isso, o _Embarcatech_, também tenho extremo interesse na área de _IoT_ ou Internet das Coisas!
 
 # 💫 About Me:
 I am an Internet Computer Technician from IFRN-Caicó's campus, and I am also in the second semester of my Computer Science graduation at UFCG. Currently, my interests include the development of full-stack web applications, object-oriented programming, and, since I've finished the Embarcatech course, the IoT area.
